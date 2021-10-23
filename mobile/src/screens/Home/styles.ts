@@ -1,7 +1,7 @@
-import { StyleSheet } from 'react-native'
-import { COLORS } from '../../theme'
-import { getStatusBarHeight } from 'react-native-iphone-x-helper'
+import { StyleSheet } from "react-native";
+import { getStatusBarHeight } from "react-native-iphone-x-helper";
 
+import { COLORS } from '../../theme/colors'
 
 export const styles = StyleSheet.create({
     container: {
